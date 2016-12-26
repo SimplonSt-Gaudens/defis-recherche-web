@@ -1,16 +1,17 @@
 - Par qui, quand, pourquoi et où a été inventé Internet ?
 - Quelle est la différence entre le Web et Internet ?
 - Qu’est-ce que cela :
-- 8.8.8.8
-- 192.168.0.1
-- 255.255.255.0
-- 127.0.0.1
+  - 8.8.8.8
+  - 192.168.0.1
+  - 255.255.255.0
+  - 127.0.0.1
 - Que sont le copyright et le copyleft ?
 - Que sont les Creatives Commons ?
 - Qui est Grace Hopper ?
 - Qu'est-ce que Qwant ?
 - Qui est Steve Wozniak ?
-- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
+- D'où vient l'expression "bug informatique" ?
+- Qui est Aaron Swartz ?
 - Qu’est-ce que le projet GNU ?
 - Quelles sont les différences entre le Http et le Https ?
 - Qui est Richard Stallman ?
@@ -65,9 +66,9 @@
 - Qu’est-ce que les joies du code ?
 - Qui sont Larry Page et Sergey Brin ?
 - Convertissez en binaire
-- 2, 5, 12, 25, 512
+  - 2, 5, 12, 25, 512
 - Convertissez en hexadécimal
-- 2, 5, 12, 25, 512
+  - 2, 5, 12, 25, 512
 - Convertissez du binaire vers le système “classique” (base 10)
 - 100, 1011, 11111, 11110110101
 - Quelles sont les nouveautés apportées par le HTML 5 ?
